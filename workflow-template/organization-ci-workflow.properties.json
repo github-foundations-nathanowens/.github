@@ -1,0 +1,11 @@
+{
+    "name": "Organization Workflow",
+    "description": "Organization CI workflow template.",
+    "iconName": "octicon logo-github",
+    "categories": [
+        "continuous-integration",
+        "AspNetCore",
+        "Flask",
+        "Pip"
+    ]
+}
